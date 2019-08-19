@@ -79,7 +79,7 @@ For this project, your Jupyter Notebook should meet the following specifications
 * Your notebook shows an iterative approach to modeling, and details the parameters and results of the model at each iteration.  
     * **Level Up**: Whenever necessary, you briefly explain the changes made from one iteration to the next, and why you made these choices.  
 * You provide at least 1 paragraph explaining your final model.   
-* You pick at least 3 coefficients from your final model and explain their impact on the price of a house in this dataset.   
+* You pick at least 3 coefficients from your final model and explain their impact on the dependent variable in this dataset.   
 
 
 
